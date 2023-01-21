@@ -1,4 +1,4 @@
 # profile_card
 
-* A profile card designed using Bootstrap.
+* A profile card design using Bootstrap.
 * The card designed responsive.
